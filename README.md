@@ -1,8 +1,15 @@
 # Jets Application
 
-### Description
-put some meaningful stuff here describing the Jets projects
+### Overview
+Create a fleet of jets with different capabilities. The application is a menu to use the jets and access information about them.
 
-### Tech Used
+### Technologies Used
+* Encapsulation
+* Inheritance
+* Interface
+* Abstract class
+* Polymorphism
+* Collection
 
 ### Things Learned
+Use superclass reference to access methods of subclass objects

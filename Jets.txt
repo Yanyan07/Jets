@@ -1,0 +1,6 @@
+cargo,Husky1,20.0,100,1000
+cargo,Husky2,25.0,90,1000
+combat,Labrador1,25.0,80,1100
+combat,Labradors2,20.0,88,1200
+scout,GoldenRetriever1,40.00,75,1200
+scout,GoldenRetriever2,42.00,70,1000
